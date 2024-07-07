@@ -5,7 +5,7 @@
 ***********************************************************************
 1. Clone the Proect from here
 
-    git clone https://github.com/vandan501/LMS_MERNStack/tree/main
+    git clone https://github.com/Abhishek-Karanke/LMS-Project
 
 ***********************************************************************    
 2. Move into the Directory
